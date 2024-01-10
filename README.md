@@ -1,5 +1,6 @@
 # eniac_brazil_expansion
 *Data analysis for a Spanish online marketplace company aiming to enter the Brazilian market.*
+Created by Philip Groß, January 2024
 
 ## Eniac
 Eniac is an online marketplace specializing in Apple-compatible accessories. It was founded 2008 in Spain and has since grown and expanded to other neighboring countries. In addition to offering a wide catalog of products at competitive prices, Eniac provides friendly and professional tech support and consultation to its customers.
@@ -16,3 +17,10 @@ The economic conditions of the deal are already being discussed. But not everyon
 - Among Eniac’s efforts to have happy customers, fast deliveries are key. The delivery fees resulting from Magist’s deal with the public Post Office might be cheap, but at what cost? Are deliveries fast enough?
 
 Magist has allowed Eniac to access a snapshot of their database. The goal is to explore the database and find out if Magist is a viable partner for entering the Brazilian market.
+
+## File inventory
+This repository contains the following files:
+
+- Readme.md: Gives context on the purpose of the repository
+- data_exploration.sql: MySQL script that contains queries for a first exploration of the database.
+- business_decision.sql: MySQL script that contains queries regarding Magists ability to serve as a reliable service provider for distributing Eniac's products in Brazil. Includes a short description of the main findings.
